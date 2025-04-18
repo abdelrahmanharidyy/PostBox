@@ -24,9 +24,11 @@ A lightweight PHP-based forum system that allows users to post content, comment,
 - `script.js` — Basic interactivity
 
 ##📸 Preview
+![screenshot](Preview.png)
+
 
 ## 🚀 Getting Started
-![screenshot](Preview.png)
+
 ### Prerequisites
 
 - PHP (>= 7.x)
