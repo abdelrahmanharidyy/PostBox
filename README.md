@@ -1,4 +1,4 @@
-# Yarab Forum
+# Post-Page Forum
 
 A lightweight PHP-based forum system that allows users to post content, comment, and upvote/downvote posts. Ideal as a starter project to understand basic CRUD operations, session handling, and database integration with PHP.
 
@@ -26,7 +26,7 @@ A lightweight PHP-based forum system that allows users to post content, comment,
 ##📸 Preview
 
 ## 🚀 Getting Started
-
+![screenshot](Preview.png)
 ### Prerequisites
 
 - PHP (>= 7.x)
