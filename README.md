@@ -23,6 +23,8 @@ A lightweight PHP-based forum system that allows users to post content, comment,
 - `style.css` — Page styling
 - `script.js` — Basic interactivity
 
+##📸 Preview
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -36,4 +38,5 @@ A lightweight PHP-based forum system that allows users to post content, comment,
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/yarab-forum.git
+git clone https://github.com/abdelrahmanharidyy/PostBox.git
+
